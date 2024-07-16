@@ -1,0 +1,11 @@
+.filter-input {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    background-color: #d7c3df;
+    color:black;
+    transition: border-color 0.2s ease-in-out;
+    margin-left: 5px;
+    margin-top: 10px;
+  }

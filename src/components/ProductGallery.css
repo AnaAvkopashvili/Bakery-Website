@@ -1,0 +1,27 @@
+.product-gallery {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .product-gallery .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+
+  }
+  
+  .sort-select {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #5b0c7a;
+    border-radius: 4px;
+    background-color: #f8e1e3;
+    transition: border-color 0.2s ease-in-out;
+  }
+  
+  .sort-select:focus {
+    border-color: #5b0c7a;
+  }
+  

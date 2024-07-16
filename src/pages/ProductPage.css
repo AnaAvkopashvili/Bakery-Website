@@ -1,0 +1,33 @@
+/* src/pages/ProductPage.css */
+.product-page {
+    padding: 20px;
+  }
+  
+  .product-details {
+    text-align: center;
+  }
+  
+  .product-details img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .product-details h2 {
+    color: #704083;
+    margin-bottom: 10px;
+  }
+  
+  .product-details p {
+    color: #333;
+    margin-bottom: 5px;
+  }
+  
+  .product-details span {
+    display: block;
+    color: #704083;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
